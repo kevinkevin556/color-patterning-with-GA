@@ -17,3 +17,15 @@ To compile the project code, simply use the `make` command under the root direct
 For removal, type command in console under the root directory.
     
     make clean
+This will remove all the compiling file and `GA_color` executbale.
+
+## Executing the program
+The instruction explains how to run the tests.
+
+### Run the tests
+Find the executable file under the `bin` directory, the type the command below in the console:
+    
+    GA_color <input_file> <output_file>
+where `input_file` is the input file path that you are going to test and `output_file` is the output file path . You can use the files in the `input` folder or create your own test files. 
+
+## Arthurs 
