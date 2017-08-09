@@ -12,6 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Install and Uninstall
 To compile the project code, simply use the `make` command under the root directory.
+
   make
+  
 For removal, type command in console under the root directory.
+
   make clean
